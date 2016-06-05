@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CLRDVTabBarController_Example' do
+  pod 'CLRDVTabBarController', :path => '../'
+
+  target 'CLRDVTabBarController_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
