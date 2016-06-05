@@ -1,0 +1,6 @@
+framework module Pods_CLRDVTabBarController_Tests {
+  umbrella header "Pods-CLRDVTabBarController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,26 @@
+PODS:
+  - CLRDVTabBarController (0.1.0):
+    - RDVTabBarController
+  - FBSnapshotTestCase (2.1.0):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.0)
+  - FBSnapshotTestCase/Core (2.1.0)
+  - FBSnapshotTestCase/SwiftSupport (2.1.0):
+    - FBSnapshotTestCase/Core
+  - RDVTabBarController (1.1.9)
+
+DEPENDENCIES:
+  - CLRDVTabBarController (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CLRDVTabBarController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CLRDVTabBarController: 30d6403493f02986a22526f8194a67d2489178a1
+  FBSnapshotTestCase: 366ecd378511d7716c79991cd8067d1eed23578d
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+
+PODFILE CHECKSUM: 0fd3d4ba95530e62289c7229e6dbdb0374283af7
+
+COCOAPODS: 1.0.0

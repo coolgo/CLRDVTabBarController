@@ -1,0 +1,6 @@
+framework module CLRDVTabBarController {
+  umbrella header "CLRDVTabBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CLRDVTabBarController",
+  "version": "0.1.0",
+  "summary": "A short description of CLRDVTabBarController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CLRDVTabBarController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coolgo.me": "coolgo_us@me.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CLRDVTabBarController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "CLRDVTabBarController/Classes/**/*",
+  "dependencies": {
+    "RDVTabBarController": [
+
+    ]
+  }
+}
